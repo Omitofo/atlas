@@ -60,7 +60,7 @@ Shannon’s 1948 paper “A Mathematical Theory of Communication” founded the 
 - “You can compress any file arbitrarily.” → Lossless compression cannot go below the entropy of the source on average.
 
 ## See also
-- [[Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics|Second Law of Thermodynamics]] (deep mathematical and conceptual links)
+- [Second Law of Thermodynamics](../../../Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics.md) (deep mathematical and conceptual links)
 
 ## Tags
 #principle #information-theory #entropy #shannon #compression #communication

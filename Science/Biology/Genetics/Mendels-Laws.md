@@ -52,7 +52,7 @@ Mendel’s experiments on pea plants (1856–1863) were published in 1865 but la
 - Discrete hereditary factors (against blending inheritance)
 
 ### Influences / leads to
-- [[Science/Biology/Evolution/Natural-Selection|Natural Selection]] (provides the mechanism of heredity)
+- [Natural Selection](../Evolution/Natural-Selection.md) (provides the mechanism of heredity)
 - Modern genetics, genomics, genetic counseling
 
 ### Contrasts with
@@ -64,8 +64,8 @@ Mendel’s experiments on pea plants (1856–1863) were published in 1865 but la
 - “Dominant means better or more common.” → Dominance refers only to phenotypic expression in heterozygotes.
 
 ## See also
-- [[Science/Biology/Evolution/Natural-Selection|Natural Selection]]
-- [[Science/Biology/Cell-Biology/Cell-Theory|Cell Theory]]
+- [Natural Selection](../Evolution/Natural-Selection.md)
+- [Cell Theory](../Cell-Biology/Cell-Theory.md)
 
 ## Tags
 #principle #biology #genetics #mendel #inheritance

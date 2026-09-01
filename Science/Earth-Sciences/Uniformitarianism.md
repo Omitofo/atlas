@@ -60,7 +60,7 @@ James Hutton (1785) argued for an Earth with “no vestige of a beginning.” Ch
 - “It denies that big events ever happened.” → It does not; it simply says the same physics applies.
 
 ## See also
-- [[Science/Biology/Evolution/Natural-Selection|Natural Selection]] (both required deep time)
+- [Natural Selection](../Biology/Evolution/Natural-Selection.md) (both required deep time)
 
 ## Tags
 #principle #geology #earth-sciences #uniformitarianism #deep-time

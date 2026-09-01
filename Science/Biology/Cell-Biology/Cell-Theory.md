@@ -63,8 +63,8 @@ Schleiden (plants, 1838) and Schwann (animals, 1839) proposed that cells are the
 - “All cells look the same.” → Enormous diversity of form and function.
 
 ## See also
-- [[Science/Biology/Evolution/Natural-Selection|Natural Selection]]
-- [[Science/Biology/Genetics/Mendels-Laws|Mendel's Laws]]
+- [Natural Selection](../Evolution/Natural-Selection.md)
+- [Mendel's Laws](../Genetics/Mendels-Laws.md)
 
 ## Tags
 #principle #biology #cell-theory #foundation-of-biology

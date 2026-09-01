@@ -58,8 +58,8 @@ Hebb published *The Organization of Behavior* in 1949. The cellular mechanism (L
 - “It only strengthens connections.” → Depression of unused synapses is equally important.
 
 ## See also
-- [[Science/Biology/Evolution/Natural-Selection|Natural Selection]] (selection-like processes operate at the synaptic level)
-- [[Science/Biology/Cell-Biology/Cell-Theory|Cell Theory]]
+- [Natural Selection](../../../Science/Biology/Evolution/Natural-Selection.md) (selection-like processes operate at the synaptic level)
+- [Cell Theory](../../../Science/Biology/Cell-Biology/Cell-Theory.md)
 
 ## Tags
 #principle #neuroscience #learning #plasticity #hebb #memory

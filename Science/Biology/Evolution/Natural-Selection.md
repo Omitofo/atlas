@@ -45,7 +45,7 @@ Darwin and Wallace independently arrived at the idea. Darwin published *On the O
 ## Relationships
 
 ### Builds on / presupposes
-- Heritable variation ([[Science/Biology/Genetics/Mendels-Laws|Mendel’s Laws]])
+- Heritable variation ([Mendel's Laws](../Genetics/Mendels-Laws.md))
 - Struggle for existence (Malthusian insight)
 
 ### Influences / leads to
@@ -62,8 +62,8 @@ Darwin and Wallace independently arrived at the idea. Darwin published *On the O
 - “It produces perfection.” → It produces local, contingent adaptations, often with trade-offs.
 
 ## See also
-- [[Science/Biology/Genetics/Mendels-Laws|Mendel's Laws of Inheritance]]
-- [[Mind-and-Behavior/Neuroscience/Hebbian-Learning|Hebbian Learning]] (selection-like processes in neural circuits)
+- [Mendel's Laws of Inheritance](../Genetics/Mendels-Laws.md)
+- [Hebbian Learning](../../../Mind-and-Behavior/Neuroscience/Hebbian-Learning.md) (selection-like processes in neural circuits)
 
 ## Tags
 #principle #biology #evolution #natural-selection #darwin

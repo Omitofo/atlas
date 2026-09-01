@@ -57,8 +57,8 @@ Antoine Lavoisier carefully weighed reactants and products in closed vessels and
 - “Conservation of mass is the same as conservation of energy.” → Related but distinct; the deeper principle is conservation of mass-energy.
 
 ## See also
-- [[Science/Physics/Thermodynamics/Conservation-of-Energy|Conservation of Energy]]
-- [[Science/Biology/Cell-Biology/Cell-Theory|Cell Theory]] (atoms are conserved through biological processes too)
+- [Conservation of Energy](../Physics/Thermodynamics/Conservation-of-Energy.md)
+- [Cell Theory](../Biology/Cell-Biology/Cell-Theory.md) (atoms are conserved through biological processes too)
 
 ## Tags
 #principle #chemistry #conservation #mass #lavoisier
