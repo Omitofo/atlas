@@ -20,8 +20,8 @@ It is a **principles atlas** — a carefully curated collection of fundamental r
 
 ## Linking conventions
 
-- Use `[[wikilinks]]` for Obsidian
-- Also keep relative Markdown links so GitHub remains readable
+- Use standard Markdown links so they work on GitHub: `[text](relative/path.md)`
+- Obsidian also understands these Markdown links
 - Prefer linking to the principle note, not to folders
 
 ## Growth rules

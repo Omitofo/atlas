@@ -3,28 +3,28 @@
 ## Science
 
 ### Physics
-- [[Science/Physics/README|Physics Overview]]
+- [Physics Overview](../Science/Physics/README.md)
 
 ### Chemistry
-- [[Science/Chemistry/README|Chemistry Overview]]
+- [Chemistry Overview](../Science/Chemistry/README.md)
 
 ### Biology
-- [[Science/Biology/README|Biology Overview]]
+- [Biology Overview](../Science/Biology/README.md)
 
 ### Earth Sciences
-- [[Science/Earth-Sciences/README|Earth Sciences]]
+- [Earth Sciences](../Science/Earth-Sciences/README.md)
 
 ### Mathematics
-- [[Science/Mathematics/README|Mathematics]]
+- [Mathematics](../Science/Mathematics/README.md)
 
 ### Computer Science & Information
-- [[Science/Computer-Science-Information/README|CS & Information]]
+- [CS & Information](../Science/Computer-Science-Information/README.md)
 
 ## Mind & Behavior
-- [[Mind-and-Behavior/README|Overview]]
+- [Overview](../Mind-and-Behavior/README.md)
 
 ## Formal Systems
-- [[Formal-Systems/README|Overview]]
+- [Overview](../Formal-Systems/README.md)
 
 ## Applied Domains
-- [[Applied-Domains/README|Overview]]
+- [Overview](../Applied-Domains/README.md)

@@ -9,14 +9,14 @@
 ## Principles currently present
 
 ### Relativity
-- [[Science/Physics/Relativity/General-Relativity|General Relativity]]
+- [General Relativity](Relativity/General-Relativity.md)
 
 ### Thermodynamics
-- [[Science/Physics/Thermodynamics/Conservation-of-Energy|Conservation of Energy]]
-- [[Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics|Second Law of Thermodynamics]]
+- [Conservation of Energy](Thermodynamics/Conservation-of-Energy.md)
+- [Second Law of Thermodynamics](Thermodynamics/Second-Law-of-Thermodynamics.md)
 
 ### Quantum
-- [[Science/Physics/Quantum/Uncertainty-Principle|Uncertainty Principle]]
+- [Uncertainty Principle](Quantum/Uncertainty-Principle.md)
 
 ---
 

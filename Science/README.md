@@ -6,12 +6,12 @@ Science principles are organized by traditional disciplines, but many principles
 
 ## Subdomains
 
-- [[Science/Physics/README|Physics]]
-- [[Science/Chemistry/README|Chemistry]]
-- [[Science/Biology/README|Biology]]
-- [[Science/Earth-Sciences/README|Earth Sciences]]
-- [[Science/Mathematics/README|Mathematics]]
-- [[Science/Computer-Science-Information/README|Computer Science & Information]]
+- [Physics](Physics/README.md)
+- [Chemistry](Chemistry/README.md)
+- [Biology](Biology/README.md)
+- [Earth Sciences](Earth-Sciences/README.md)
+- [Mathematics](Mathematics/README.md)
+- [Computer Science & Information](Computer-Science-Information/README.md)
 
 ## Cross-cutting themes
 - Conservation laws

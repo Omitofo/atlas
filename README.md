@@ -2,7 +2,7 @@
 
 A living **principles vault** designed for deep understanding, long-term retention, and continuous growth.
 
-This repository is optimized for both **Obsidian** (local graph + wikilinks) and **GitHub** (readable Markdown + relative links).
+This repository is optimized for both **Obsidian** (local graph) and **GitHub** (readable Markdown + relative links).
 
 > **Focus**: Only *principles* — fundamental rules, laws, and generative ideas that explain how the world works. Not encyclopedic knowledge.
 
@@ -15,36 +15,36 @@ This repository is optimized for both **Obsidian** (local graph + wikilinks) and
 4. Use the template in `_templates/Principle.md` when adding new principles
 
 ### On GitHub
-All links are relative Markdown links. Browse folders or use the indexes below.
+All links are relative Markdown links so they work directly on GitHub.
 
 ## Navigation
 
-- [[00-Indexes/Master-Index|Master Index]] — complete list of all principles
-- [[00-Indexes/By-Domain|By Domain]]
-- [[Meta/How-to-use-this-vault|How to use this vault]]
-- [[_templates/Principle|Principle Template]]
+- [Master Index](00-Indexes/Master-Index.md) — complete list of all principles
+- [By Domain](00-Indexes/By-Domain.md)
+- [How to use this vault](Meta/How-to-use-this-vault.md)
+- [Principle Template](_templates/Principle.md)
 
 ## Domains
 
 ### Science
-- [[Science/README|Science Overview]]
-  - [[Science/Physics/README|Physics]]
-  - [[Science/Chemistry/README|Chemistry]]
-  - [[Science/Biology/README|Biology]]
-  - [[Science/Mathematics/README|Mathematics]]
-  - [[Science/Earth-Sciences/README|Earth Sciences]]
-  - [[Science/Computer-Science-Information/README|Computer Science & Information]]
+- [Science Overview](Science/README.md)
+  - [Physics](Science/Physics/README.md)
+  - [Chemistry](Science/Chemistry/README.md)
+  - [Biology](Science/Biology/README.md)
+  - [Mathematics](Science/Mathematics/README.md)
+  - [Earth Sciences](Science/Earth-Sciences/README.md)
+  - [Computer Science & Information](Science/Computer-Science-Information/README.md)
 
 ### Mind & Behavior
-- [[Mind-and-Behavior/README|Mind & Behavior]]
+- [Mind & Behavior](Mind-and-Behavior/README.md)
   - Psychology · Neuroscience · Cognitive Science
 
 ### Formal Systems
-- [[Formal-Systems/README|Formal Systems]]
+- [Formal Systems](Formal-Systems/README.md)
   - Logic · Information Theory
 
 ### Applied Domains
-- [[Applied-Domains/README|Applied Domains]]
+- [Applied Domains](Applied-Domains/README.md)
   - Warfare & Strategy · Sports · Art & Aesthetics · Engineering & Design
 
 ## Core Philosophy of this Vault
@@ -57,4 +57,4 @@ All links are relative Markdown links. Browse folders or use the indexes below.
 
 ---
 
-*Start here → [[00-Indexes/Master-Index]]*
+*Start here → [Master Index](00-Indexes/Master-Index.md)*
