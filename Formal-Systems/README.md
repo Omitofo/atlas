@@ -5,4 +5,4 @@
 - Information Theory
 
 ## Principles present
-- [[Formal-Systems/Information-Theory/Shannon-Entropy|Shannon Information Theory / Entropy]]
+- [Shannon Information Theory / Entropy](Information-Theory/Shannon-Entropy.md)

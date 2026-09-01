@@ -3,13 +3,13 @@
 ## Subdomains & Principles
 
 ### Evolution
-- [[Science/Biology/Evolution/Natural-Selection|Evolution by Natural Selection]]
+- [Evolution by Natural Selection](Evolution/Natural-Selection.md)
 
 ### Cell Biology
-- [[Science/Biology/Cell-Biology/Cell-Theory|Cell Theory]]
+- [Cell Theory](Cell-Biology/Cell-Theory.md)
 
 ### Genetics
-- [[Science/Biology/Genetics/Mendels-Laws|Mendel's Laws of Inheritance]]
+- [Mendel's Laws of Inheritance](Genetics/Mendels-Laws.md)
 
 ## Notes
 Biology principles often sit at the intersection of physics, chemistry, and information.

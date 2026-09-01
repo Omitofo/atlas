@@ -1,7 +1,7 @@
 # Earth Sciences
 
 ## Principles present
-- [[Science/Earth-Sciences/Uniformitarianism|Principle of Uniformitarianism]]
+- [Principle of Uniformitarianism](Uniformitarianism.md)
 
 ## Future candidates
 - Principle of Superposition

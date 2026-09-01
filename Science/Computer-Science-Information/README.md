@@ -1,6 +1,6 @@
 # Computer Science & Information
 
-Closely linked to [[Formal-Systems/Information-Theory/Shannon-Entropy|Shannon Information Theory]].
+Closely linked to [Shannon Information Theory](../Formal-Systems/Information-Theory/Shannon-Entropy.md).
 
 ## Future candidates
 - Church-Turing Thesis

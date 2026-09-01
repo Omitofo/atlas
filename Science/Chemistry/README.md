@@ -1,7 +1,7 @@
 # Chemistry
 
 ## Principles present
-- [[Science/Chemistry/Conservation-of-Mass|Law of Conservation of Mass]]
+- [Law of Conservation of Mass](Conservation-of-Mass.md)
 
 ## Future candidates
 - Le Chatelier’s Principle
