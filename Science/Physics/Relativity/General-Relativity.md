@@ -63,8 +63,8 @@ Einstein published the final form of the field equations in November 1915. The 1
 - “Black holes suck everything in like vacuum cleaners.” → They curve spacetime extremely strongly; crossing the event horizon is not special locally.
 
 ## See also
-- [[Science/Physics/Thermodynamics/Conservation-of-Energy|Conservation of Energy]]
-- [[Science/Physics/Quantum/Uncertainty-Principle|Uncertainty Principle]] (quantum gravity remains an open frontier)
+- [Conservation of Energy](../Thermodynamics/Conservation-of-Energy.md)
+- [Uncertainty Principle](../Quantum/Uncertainty-Principle.md) (quantum gravity remains an open frontier)
 
 ## Tags
 #principle #physics #relativity #spacetime #gravity #einstein

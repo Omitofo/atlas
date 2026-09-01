@@ -59,7 +59,7 @@ Heisenberg formulated the principle in 1927 while developing matrix mechanics. I
 - “It means quantum mechanics is incomplete or fuzzy.” → It is a precise quantitative limit.
 
 ## See also
-- [[Science/Physics/Relativity/General-Relativity|General Relativity]] (quantum gravity is still incomplete)
+- [General Relativity](../Relativity/General-Relativity.md) (quantum gravity is still incomplete)
 
 ## Tags
 #principle #physics #quantum #uncertainty #heisenberg

@@ -47,7 +47,7 @@ Independent work by Mayer (1842), Joule (precise measurements of the mechanical 
 - Concept of work and heat as energy transfers
 
 ### Influences / leads to
-- [[Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics|Second Law of Thermodynamics]]
+- [Second Law of Thermodynamics](Second-Law-of-Thermodynamics.md)
 - All of engineering energy accounting
 - Special Relativity (mass-energy)
 
@@ -59,8 +59,8 @@ Independent work by Mayer (1842), Joule (precise measurements of the mechanical 
 - “Perpetual motion machines of the first kind are possible.” → They would violate conservation of energy.
 
 ## See also
-- [[Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics|Second Law of Thermodynamics]]
-- [[Science/Chemistry/Conservation-of-Mass|Conservation of Mass]] (related but distinct)
+- [Second Law of Thermodynamics](Second-Law-of-Thermodynamics.md)
+- [Conservation of Mass](../../Chemistry/Conservation-of-Mass.md) (related but distinct)
 
 ## Tags
 #principle #physics #thermodynamics #conservation #energy

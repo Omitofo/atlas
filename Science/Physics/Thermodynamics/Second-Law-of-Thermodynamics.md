@@ -49,11 +49,11 @@ Sadi Carnot (1824) analyzed ideal heat engines. Clausius (1850s) introduced the 
 ## Relationships
 
 ### Builds on / presupposes
-- [[Science/Physics/Thermodynamics/Conservation-of-Energy|Conservation of Energy]] (First Law)
+- [Conservation of Energy](Conservation-of-Energy.md) (First Law)
 
 ### Influences / leads to
 - Statistical mechanics
-- [[Formal-Systems/Information-Theory/Shannon-Entropy|Shannon Information Theory]] (deep analogy)
+- [Shannon Information Theory](../../../Formal-Systems/Information-Theory/Shannon-Entropy.md) (deep analogy)
 - Cosmology (heat death of the universe)
 
 ### Contrasts with
@@ -64,8 +64,8 @@ Sadi Carnot (1824) analyzed ideal heat engines. Clausius (1850s) introduced the 
 - “The Second Law is just about disorder in a vague sense.” → It is a precise quantitative statement about probability and information.
 
 ## See also
-- [[Science/Physics/Thermodynamics/Conservation-of-Energy|Conservation of Energy]]
-- [[Formal-Systems/Information-Theory/Shannon-Entropy|Shannon Entropy]]
+- [Conservation of Energy](Conservation-of-Energy.md)
+- [Shannon Entropy](../../../Formal-Systems/Information-Theory/Shannon-Entropy.md)
 
 ## Tags
 #principle #physics #thermodynamics #entropy #arrow-of-time
